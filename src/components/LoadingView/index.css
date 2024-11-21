@@ -1,0 +1,8 @@
+.products-loader-container {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(27, 37, 55);
+}
